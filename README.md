@@ -1,6 +1,5 @@
-# sprint_08_project
+# Megaline Telecommunications Project - Customer Plan Recommendation System
 
-Megaline Telecommunications Project - Customer Plan Recommendation System
 ### Problem Context:
 Development of a machine learning classification model to predict which mobile plan (Smart or Ultra) customers will choose based on their usage behavior patterns, enabling Megaline telecommunications company to provide personalized plan recommendations and optimize customer satisfaction.
 
